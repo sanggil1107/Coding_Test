@@ -18,7 +18,7 @@
 |번호|제목|URL|소스코드|
 |:---:|:---:|:---:|:---:|
 | | | | |
-</details>
+</details> 
 
 <details markdown="1">
 <summary><strong>삼성 SW 역량 테스트 기출 문제</strong></summary>
