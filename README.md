@@ -23,6 +23,7 @@
 |10998|[A×B](https://www.acmicpc.net/problem/10998)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/>| |
 |11047|[동전 0](https://www.acmicpc.net/problem/11047)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>| |
 |11399|[ATM](https://www.acmicpc.net/problem/11399)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>| |
+|2588|[곱셈](https://www.acmicpc.net/problem/2588)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/>| |
 </details>
 
 <details markdown="1">
