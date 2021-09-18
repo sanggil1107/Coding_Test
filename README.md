@@ -2,6 +2,7 @@
 코딩 테스트 문제 풀이
 
 ---
+
 ## **💻 문제 목록**
 
 <details markdown="1">
@@ -31,7 +32,11 @@
 |1157|[단어공부](https://www.acmicpc.net/problem/1157)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>| |
 |1152|[단어의 개수](https://www.acmicpc.net/problem/1152)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>| |
 |2908|[상수](https://www.acmicpc.net/problem/2908)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>| |
-</details>
+|5622|[다이얼](https://www.acmicpc.net/problem/5622)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>| |
+|2941|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>| |
+|1316|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>| |
+<details>
+
 
 <details markdown="1">
 <summary><strong>프로그래머스</strong></summary>
